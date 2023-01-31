@@ -1,11 +1,11 @@
 *{
     overflow-x: hidden;
 }
-.array-container{
+/* .array-container{ */
     /* display: flex; 
      align-items: center; */
     /* flex-direction: column; */
-}
+/* } */
 
 .arr-block{
    display: inline-block;
